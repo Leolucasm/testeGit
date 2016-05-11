@@ -9,6 +9,7 @@ public class SamsungAdapter implements VideoRecorder {
 
     @Override
     public void record() {
+        
         samsung.rec();
     }
 
